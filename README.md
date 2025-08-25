@@ -1,7 +1,7 @@
 # Chronic Kidney Disease (CKD) Prediction Using Machine Learning
 
 ## Dataset
-- [UCI ML Repository](https://archive.ics.uci.edu/dataset/336/chronic+kidney+disease)
+- [UCI ML Repository](https://doi.org/10.24432/C5G020)
 - Data collected from a hospital in India within 2 months (results may be population specific)
 - Records: 400 
 - Target Variable: 'classification' (CKD status)
